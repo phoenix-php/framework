@@ -1,5 +1,5 @@
 {
-    "name": "phoenix/framework",
+    "name": "phoenix-php/framework",
     "description": "Phoenix PHP Framework",
     "require": {
         "php": ">=7.0.0"
