@@ -1,4 +1,9 @@
 {
+    "name": "phoenix/framework",
+    "description": "Phoenix PHP Framework",
+    "require": {
+        "php": ">=7.0.0"
+    },
     "autoload": {
         "psr-4": {
             "app\\": "app/",
